@@ -1,0 +1,24 @@
+.caja {
+  text-align: center;
+  padding: 40px;
+  background-color: #e8e8e8;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(101, 3, 3, 0.05);
+  color: rgb(185, 35, 21);
+}
+.card {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  font-size: 0.9rem; /* tamaño de texto más pequeño */
+}
+
+.card-img-top {
+  height: 125px;
+  object-fit: contain;
+}
+
+.card-title, .card-text {
+  text-align: center;
+}
+
